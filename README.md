@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 # Personal Rating
 ### It's gonna work very well if you try to nuke a server with 100 - 150 members.
-### I HIGHLY not recommend using it on a server with above 1000 members.
+### I HIGHLY do not recommend using it on a server with above 1000 members.
 
 # Important Note
 ### I am not responsible for any use for this product.

@@ -26,6 +26,9 @@ pip install -U https://github.com/sub1337/NukeBot
 #### Eight, the bot creates 150 roles with the name and color of your choice.
 ![Screenshot](https://imgur.com/KyvVGcJ.png)
 
+# How to host?
+## It's possible to host T-Nuker [using repl.it](https://replit.com/github/sub1337/NukeBot) to host the bot, but it is recommended to use your very own vps.
+
 # Personal Rating
 ### It's gonna work very well if you try to nuke a server with 100 - 150 members.
 ### I HIGHLY not recommend using it on a server with above 1000 members.

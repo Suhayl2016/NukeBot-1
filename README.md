@@ -4,6 +4,11 @@
 ```ini
 pip install -U https://github.com/sub1337/NukeBot
 ```
+#### Installing requirements
+```ini
+pip install -r requirements.txt
+```
+
 # How to use?
 ```ini
 {prefix}nuke
